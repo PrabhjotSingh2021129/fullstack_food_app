@@ -35,7 +35,7 @@ yarn start
 
 > Packages Used
 
-<!-- prettier-ignore
+
 
 [React](https://reactjs.org/) | React is a free and open-source front-end JavaScript library for building user
 interfaces based on JI components. |
