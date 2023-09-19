@@ -1,7 +1,7 @@
 > FullStack Food Delivery Application using React.js
-> [Follow Us]
+> [Follow Us](https://www.instagram.com/itz_prabh.saini/)
 
-![This is the Project Thumbnail]
+![This is the Project Thumbnail](./thumbnail.png)
 
 # To check the node version
 
